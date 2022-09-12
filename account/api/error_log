@@ -1,0 +1,5 @@
+[12-Sep-2022 01:31:12 UTC] PHP Warning:  Undefined property: stdClass::$role in /home/u7693729/public_html/lumintulearning.tech/account/api/login.php on line 32
+[12-Sep-2022 01:31:38 UTC] PHP Warning:  Undefined property: stdClass::$role in /home/u7693729/public_html/lumintulearning.tech/account/api/login.php on line 32
+[12-Sep-2022 01:33:37 UTC] PHP Warning:  Undefined property: stdClass::$role in /home/u7693729/public_html/lumintulearning.tech/account/api/login.php on line 32
+[12-Sep-2022 01:35:34 UTC] PHP Warning:  Undefined property: stdClass::$role in /home/u7693729/public_html/lumintulearning.tech/account/api/login.php on line 32
+[12-Sep-2022 01:35:48 UTC] PHP Warning:  Undefined property: stdClass::$role in /home/u7693729/public_html/lumintulearning.tech/account/api/login.php on line 32

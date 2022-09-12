@@ -1,0 +1,99 @@
+{
+    "error": false,
+    "data": [
+        {
+            "parent_id" : null,
+            "modul_id": 1,
+            "modul_name": "PHP",
+            "child": [
+                {
+                    "parent_id" : 1,
+                    "modul_id": 11,
+                    "modul_name": "PHP Dasar",
+                    "child": [
+                        {
+                            "parent_id" : 11,
+                            "modul_id" : 120,
+                            "modul_name": "PHP Flow Control"
+                        },
+                        {
+                            "parent_id" : 11,
+                            "modul_id" : 121,
+                            "modul_name": "PHP Variable"
+                        }
+                    ]
+                },
+                {
+                    "modul_id": 12,
+                    "modul_name": "PHP Intermediate",
+                    "child": [
+                        {
+                            "modul_id": 121,
+                            "modul_name": "PHP Array"
+                        },
+                        {
+                            "modul_id": 122,
+                            "modul_name": "PHP Object"
+                        }
+                    ]
+                },
+                {
+                    "modul_id": 13,
+                    "modul_name": "PHP Advanced",
+                    "child": [
+                        {
+                            "modul_id": 131,
+                            "modul_name": "PHP File Handling"
+                        },
+                        {
+                            "modul_id": 132,
+                            "modul_name": "PHP File Upload"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "modul_id": 2,
+            "modul_name": "Javascript",
+            "child": [
+                {
+                    "modul_id": 21,
+                    "modul_name": "Javascript Basic",
+                    "child": [
+                        {
+                            "modul_id": 211,
+                            "modul_name": "Javascript Syntax"
+                        },
+                        {
+                            "modul_id": 212,
+                            "modul_name": "Javascript Variable"
+                        },
+                        {
+                            "modul_id": 213,
+                            "modul_name": "Javascript Control Flow"
+                        }
+                    ]
+                },
+                {
+                    "modul_id": 22,
+                    "modul_name": "Javascript Intermediate"
+                },
+                {
+                    "modul_id": 23,
+                    "modul_name": "Javascript Advanced",
+                    "child": [
+                        {
+                            "modul_id": 231,
+                            "modul_name": "JSON"
+                        },
+                        {
+                            "modul_id": 232,
+                            "modul_name": "AJAX"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

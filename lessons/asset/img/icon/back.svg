@@ -1,0 +1,11 @@
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" class="feather feather-log-out" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="currentColor" fill="none">
+
+ <g>
+  <title>Layer 1</title>
+  <g transform="rotate(-180 12.8 12)" stroke="null" id="svg_4">
+   <path stroke="null" id="svg_1" d="m9.8,21l-4,0a2,2 0 0 1 -2,-2l0,-14a2,2 0 0 1 2,-2l4,0"/>
+   <polyline stroke="null" id="svg_2" points="16.7999986410141,17 21.7999986410141,12 16.7999986410141,7 "/>
+   <line stroke="null" id="svg_3" y2="12" x2="9.8" y1="12" x1="21.8"/>
+  </g>
+ </g>
+</svg>

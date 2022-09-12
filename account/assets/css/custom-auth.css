@@ -1,0 +1,10 @@
+body {
+  background-image: url("assets/img/background.jpg");
+  background-size: cover;
+}
+
+h2,
+h3,
+label {
+  color: white;
+}

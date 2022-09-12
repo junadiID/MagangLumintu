@@ -1,0 +1,394 @@
+[04-Aug-2022 07:00:56 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[04-Aug-2022 07:00:56 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 378
+[04-Aug-2022 07:00:56 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 595
+[04-Aug-2022 07:00:56 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 595
+[04-Aug-2022 07:00:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 595
+[04-Aug-2022 07:00:56 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 600
+[04-Aug-2022 07:00:56 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 600
+[04-Aug-2022 07:00:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 600
+[04-Aug-2022 07:01:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[04-Aug-2022 07:01:47 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 378
+[04-Aug-2022 07:01:47 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 595
+[04-Aug-2022 07:01:47 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 595
+[04-Aug-2022 07:01:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 595
+[04-Aug-2022 07:01:47 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 600
+[04-Aug-2022 07:01:47 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 600
+[04-Aug-2022 07:01:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 600
+[04-Aug-2022 07:03:02 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[04-Aug-2022 07:03:02 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 379
+[04-Aug-2022 07:03:02 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[04-Aug-2022 07:03:02 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[04-Aug-2022 07:03:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[04-Aug-2022 07:03:02 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[04-Aug-2022 07:03:02 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[04-Aug-2022 07:03:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[04-Aug-2022 07:03:05 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[04-Aug-2022 07:03:05 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 379
+[04-Aug-2022 07:03:05 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[04-Aug-2022 07:03:05 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[04-Aug-2022 07:03:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[04-Aug-2022 07:03:05 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[04-Aug-2022 07:03:05 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[04-Aug-2022 07:03:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[04-Aug-2022 07:03:55 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[04-Aug-2022 07:03:55 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 380
+[04-Aug-2022 07:03:55 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:03:55 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:03:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:03:55 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 602
+[04-Aug-2022 07:03:55 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 602
+[04-Aug-2022 07:03:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 602
+[04-Aug-2022 07:04:07 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[04-Aug-2022 07:04:08 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 380
+[04-Aug-2022 07:04:08 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:04:08 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:04:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:04:08 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 602
+[04-Aug-2022 07:04:08 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 602
+[04-Aug-2022 07:04:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 602
+[04-Aug-2022 07:04:16 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[04-Aug-2022 07:04:16 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 380
+[04-Aug-2022 07:04:16 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:04:16 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:04:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:04:16 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 602
+[04-Aug-2022 07:04:16 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 602
+[04-Aug-2022 07:04:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 602
+[04-Aug-2022 07:08:03 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 22
+[04-Aug-2022 07:08:03 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[04-Aug-2022 07:08:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[04-Aug-2022 07:08:03 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[04-Aug-2022 07:08:03 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 376
+[04-Aug-2022 07:08:03 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 560
+[04-Aug-2022 07:08:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 560
+[04-Aug-2022 07:08:03 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[04-Aug-2022 07:08:03 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[04-Aug-2022 07:08:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[04-Aug-2022 07:08:03 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:08:03 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:08:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:08:03 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 607
+[04-Aug-2022 07:08:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 607
+[04-Aug-2022 07:08:03 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[04-Aug-2022 07:08:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[04-Aug-2022 07:09:01 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 22
+[04-Aug-2022 07:09:01 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[04-Aug-2022 07:09:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[04-Aug-2022 07:09:01 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[04-Aug-2022 07:09:01 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 376
+[04-Aug-2022 07:09:01 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 560
+[04-Aug-2022 07:09:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 560
+[04-Aug-2022 07:09:01 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[04-Aug-2022 07:09:01 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[04-Aug-2022 07:09:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[04-Aug-2022 07:09:01 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:09:01 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:09:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:09:01 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 607
+[04-Aug-2022 07:09:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 607
+[04-Aug-2022 07:09:01 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[04-Aug-2022 07:09:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[04-Aug-2022 07:09:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/list-modul.php on line 28
+[04-Aug-2022 07:09:47 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/list-modul.php on line 41
+[04-Aug-2022 07:09:47 UTC] PHP Warning:  file_get_contents(https://lessons.lumintulogic.com/api/modul/read_moduls_tree_batch.php?batch_id=1): Failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/list-modul.php on line 41
+[04-Aug-2022 07:09:47 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/list-modul.php on line 48
+[04-Aug-2022 07:09:47 UTC] PHP Warning:  file_get_contents(https://lessons.lumintulogic.com/api/modul/read_modul_rows.php): Failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/list-modul.php on line 48
+[04-Aug-2022 07:09:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-modal.php on line 2
+[04-Aug-2022 07:09:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-modal.php on line 2
+[04-Aug-2022 07:09:57 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/list-modul.php on line 28
+[04-Aug-2022 07:09:57 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/list-modul.php on line 41
+[04-Aug-2022 07:09:57 UTC] PHP Warning:  file_get_contents(https://lessons.lumintulogic.com/api/modul/read_moduls_tree_batch.php?batch_id=1): Failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/list-modul.php on line 41
+[04-Aug-2022 07:09:57 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/list-modul.php on line 48
+[04-Aug-2022 07:09:57 UTC] PHP Warning:  file_get_contents(https://lessons.lumintulogic.com/api/modul/read_modul_rows.php): Failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/list-modul.php on line 48
+[04-Aug-2022 07:09:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-modal.php on line 2
+[04-Aug-2022 07:09:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-modal.php on line 2
+[04-Aug-2022 07:10:13 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/list-modul.php on line 28
+[04-Aug-2022 07:10:13 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/list-modul.php on line 41
+[04-Aug-2022 07:10:13 UTC] PHP Warning:  file_get_contents(https://lessons.lumintulogic.com/api/modul/read_moduls_tree_batch.php?batch_id=1): Failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/list-modul.php on line 41
+[04-Aug-2022 07:10:13 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/list-modul.php on line 48
+[04-Aug-2022 07:10:13 UTC] PHP Warning:  file_get_contents(https://lessons.lumintulogic.com/api/modul/read_modul_rows.php): Failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/list-modul.php on line 48
+[04-Aug-2022 07:10:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-modal.php on line 2
+[04-Aug-2022 07:10:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-modal.php on line 2
+[04-Aug-2022 07:11:35 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 22
+[04-Aug-2022 07:11:35 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[04-Aug-2022 07:11:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[04-Aug-2022 07:11:35 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[04-Aug-2022 07:11:35 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 376
+[04-Aug-2022 07:11:35 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 560
+[04-Aug-2022 07:11:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 560
+[04-Aug-2022 07:11:35 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[04-Aug-2022 07:11:35 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[04-Aug-2022 07:11:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[04-Aug-2022 07:11:35 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:11:35 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:11:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:11:35 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 607
+[04-Aug-2022 07:11:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 607
+[04-Aug-2022 07:11:35 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[04-Aug-2022 07:11:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[04-Aug-2022 07:16:09 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 22
+[04-Aug-2022 07:16:09 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[04-Aug-2022 07:16:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[04-Aug-2022 07:16:09 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[04-Aug-2022 07:16:09 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 376
+[04-Aug-2022 07:16:09 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 560
+[04-Aug-2022 07:16:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 560
+[04-Aug-2022 07:16:09 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[04-Aug-2022 07:16:09 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[04-Aug-2022 07:16:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[04-Aug-2022 07:16:09 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:16:09 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:16:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:16:09 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 607
+[04-Aug-2022 07:16:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 607
+[04-Aug-2022 07:16:09 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[04-Aug-2022 07:16:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[04-Aug-2022 07:16:16 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 22
+[04-Aug-2022 07:16:16 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[04-Aug-2022 07:16:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[04-Aug-2022 07:16:16 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[04-Aug-2022 07:16:16 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 376
+[04-Aug-2022 07:16:16 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 560
+[04-Aug-2022 07:16:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 560
+[04-Aug-2022 07:16:16 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[04-Aug-2022 07:16:16 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[04-Aug-2022 07:16:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[04-Aug-2022 07:16:16 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:16:16 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:16:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[04-Aug-2022 07:16:16 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 607
+[04-Aug-2022 07:16:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 607
+[04-Aug-2022 07:16:16 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[04-Aug-2022 07:16:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:14:02 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 22
+[10-Aug-2022 23:14:02 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[10-Aug-2022 23:14:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[10-Aug-2022 23:14:02 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[10-Aug-2022 23:14:02 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 376
+[10-Aug-2022 23:14:02 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 560
+[10-Aug-2022 23:14:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 560
+[10-Aug-2022 23:14:02 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[10-Aug-2022 23:14:02 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[10-Aug-2022 23:14:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[10-Aug-2022 23:14:02 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[10-Aug-2022 23:14:02 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[10-Aug-2022 23:14:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[10-Aug-2022 23:14:02 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 607
+[10-Aug-2022 23:14:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 607
+[10-Aug-2022 23:14:02 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:14:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:15:05 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 22
+[10-Aug-2022 23:15:05 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[10-Aug-2022 23:15:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[10-Aug-2022 23:15:05 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 69
+[10-Aug-2022 23:15:05 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 376
+[10-Aug-2022 23:15:05 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 560
+[10-Aug-2022 23:15:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 560
+[10-Aug-2022 23:15:05 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[10-Aug-2022 23:15:05 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[10-Aug-2022 23:15:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 592
+[10-Aug-2022 23:15:05 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[10-Aug-2022 23:15:05 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[10-Aug-2022 23:15:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 597
+[10-Aug-2022 23:15:05 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 607
+[10-Aug-2022 23:15:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 607
+[10-Aug-2022 23:15:05 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:15:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:16:45 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[10-Aug-2022 23:16:45 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:16:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:16:45 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:16:45 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 377
+[10-Aug-2022 23:16:45 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 561
+[10-Aug-2022 23:16:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 561
+[10-Aug-2022 23:16:45 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:16:45 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:16:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:16:45 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:16:45 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:16:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:16:45 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 608
+[10-Aug-2022 23:16:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 608
+[10-Aug-2022 23:16:45 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:16:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:16:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[10-Aug-2022 23:16:53 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:16:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:16:53 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:16:53 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 377
+[10-Aug-2022 23:16:53 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 561
+[10-Aug-2022 23:16:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 561
+[10-Aug-2022 23:16:53 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:16:53 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:16:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:16:53 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:16:53 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:16:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:16:53 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 608
+[10-Aug-2022 23:16:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 608
+[10-Aug-2022 23:16:53 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:16:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:16:56 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[10-Aug-2022 23:16:56 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:16:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:16:56 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:16:56 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 377
+[10-Aug-2022 23:16:56 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 561
+[10-Aug-2022 23:16:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 561
+[10-Aug-2022 23:16:56 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:16:56 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:16:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:16:56 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:16:56 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:16:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:16:56 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 608
+[10-Aug-2022 23:16:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 608
+[10-Aug-2022 23:16:56 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:16:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:19:01 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[10-Aug-2022 23:19:01 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:19:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:19:01 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:19:01 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 377
+[10-Aug-2022 23:19:01 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 561
+[10-Aug-2022 23:19:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 561
+[10-Aug-2022 23:19:01 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:19:01 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:19:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:19:01 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:19:01 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:19:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:19:01 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 608
+[10-Aug-2022 23:19:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 608
+[10-Aug-2022 23:19:01 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:19:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:27:00 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[10-Aug-2022 23:27:00 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:27:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:27:00 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:27:00 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 377
+[10-Aug-2022 23:27:00 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 561
+[10-Aug-2022 23:27:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 561
+[10-Aug-2022 23:27:00 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:27:00 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:27:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:27:00 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:27:00 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:27:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:27:00 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 608
+[10-Aug-2022 23:27:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 608
+[10-Aug-2022 23:27:00 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:27:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:27:01 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[10-Aug-2022 23:27:01 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:27:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:27:01 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:27:01 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 377
+[10-Aug-2022 23:27:01 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 561
+[10-Aug-2022 23:27:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 561
+[10-Aug-2022 23:27:01 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:27:01 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:27:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:27:01 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:27:01 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:27:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:27:01 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 608
+[10-Aug-2022 23:27:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 608
+[10-Aug-2022 23:27:01 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:27:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:28:05 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[10-Aug-2022 23:28:05 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:28:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:28:05 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:28:05 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 377
+[10-Aug-2022 23:28:05 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 561
+[10-Aug-2022 23:28:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 561
+[10-Aug-2022 23:28:05 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:28:05 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:28:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:28:05 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:28:05 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:28:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:28:05 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 608
+[10-Aug-2022 23:28:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 608
+[10-Aug-2022 23:28:05 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:28:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:29:30 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[10-Aug-2022 23:29:30 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:29:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:29:30 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 70
+[10-Aug-2022 23:29:30 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 377
+[10-Aug-2022 23:29:30 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 561
+[10-Aug-2022 23:29:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 561
+[10-Aug-2022 23:29:30 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:29:30 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:29:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 593
+[10-Aug-2022 23:29:30 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:29:30 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:29:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 598
+[10-Aug-2022 23:29:30 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 608
+[10-Aug-2022 23:29:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 608
+[10-Aug-2022 23:29:30 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:29:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tree-tambah.php on line 8
+[10-Aug-2022 23:30:57 UTC] PHP Parse error:  syntax error, unexpected single-quoted string ";" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 63
+[10-Aug-2022 23:36:14 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[10-Aug-2022 23:36:14 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 379
+[10-Aug-2022 23:36:14 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:36:14 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:36:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:36:14 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:36:14 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:36:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:36:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[10-Aug-2022 23:36:54 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 379
+[10-Aug-2022 23:36:54 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:36:54 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:36:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:36:54 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:36:54 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:36:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:40:08 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[10-Aug-2022 23:40:08 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 379
+[10-Aug-2022 23:40:08 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:40:08 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:40:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:40:08 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:40:08 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:40:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:42:31 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 23
+[10-Aug-2022 23:42:31 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 379
+[10-Aug-2022 23:42:31 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:42:31 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:42:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:42:31 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:42:31 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:42:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:42:54 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 379
+[10-Aug-2022 23:42:54 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:42:54 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:42:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:42:54 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:42:54 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:42:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:43:04 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 379
+[10-Aug-2022 23:43:04 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:43:04 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:43:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:43:04 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:43:04 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:43:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:43:30 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/edit.php on line 25
+[10-Aug-2022 23:45:12 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 379
+[10-Aug-2022 23:45:12 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:45:12 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:45:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:45:12 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:45:12 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:45:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:46:46 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 379
+[10-Aug-2022 23:46:46 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:46:46 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:46:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 596
+[10-Aug-2022 23:46:46 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:46:46 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601
+[10-Aug-2022 23:46:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-mentor/tambah.php on line 601

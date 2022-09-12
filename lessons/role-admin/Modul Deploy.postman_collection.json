@@ -1,0 +1,485 @@
+{
+	"info": {
+		"_postman_id": "e509943b-55d0-4f22-80b7-e2893ceaaa27",
+		"name": "Modul Deploy",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Read Single Modul",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{api_url}}modul/read_single_modul.php?id=2",
+					"host": [
+						"{{api_url}}modul"
+					],
+					"path": [
+						"read_single_modul.php"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "2"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Read Modul Childs",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{api_url}}modul/read_childs.php?id=1",
+					"host": [
+						"{{api_url}}modul"
+					],
+					"path": [
+						"read_childs.php"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Read Modul Rows",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{api_url}}modul/read_modul_rows.php",
+					"host": [
+						"{{api_url}}modul"
+					],
+					"path": [
+						"read_modul_rows.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Read Super Moduls",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{api_url}}modul/read_super_moduls.php",
+					"host": [
+						"{{api_url}}modul"
+					],
+					"path": [
+						"read_super_moduls.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Read Single Modul Tree",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{api_url}}modul/read_single_modul_tree.php?id=2",
+					"host": [
+						"{{api_url}}modul"
+					],
+					"path": [
+						"read_single_modul_tree.php"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "2"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Read Moduls Tree",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{api_url}}modul/read_moduls_tree.php",
+					"host": [
+						"{{api_url}}modul"
+					],
+					"path": [
+						"read_moduls_tree.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Modul",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "modul_name",
+							"value": "Tes",
+							"type": "default"
+						},
+						{
+							"key": "status",
+							"value": "draft",
+							"description": "optional",
+							"type": "default"
+						},
+						{
+							"key": "parent_id",
+							"value": "",
+							"type": "default"
+						},
+						{
+							"key": "batch_id",
+							"value": "1",
+							"type": "default"
+						},
+						{
+							"key": "modul_description",
+							"value": "Desc",
+							"type": "default"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{api_url}}modul/create.php",
+					"host": [
+						"{{api_url}}modul"
+					],
+					"path": [
+						"create.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Modul",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "id",
+							"value": "31",
+							"type": "default"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{api_url}}modul/delete.php",
+					"host": [
+						"{{api_url}}modul"
+					],
+					"path": [
+						"delete.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Modul",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "id",
+							"value": "34",
+							"type": "default"
+						},
+						{
+							"key": "modul_name",
+							"value": "Update Tess",
+							"type": "default"
+						},
+						{
+							"key": "status",
+							"value": "1",
+							"type": "default"
+						},
+						{
+							"key": "parent_id",
+							"value": "null",
+							"type": "default"
+						},
+						{
+							"key": "batch_id",
+							"value": "100",
+							"type": "default"
+						},
+						{
+							"key": "modul_description",
+							"value": "Updated desc",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{api_url}}modul/update.php",
+					"host": [
+						"{{api_url}}modul"
+					],
+					"path": [
+						"update.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Read All Competence",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{api_url}}modul_competence/read_all.php",
+					"host": [
+						"{{api_url}}modul_competence"
+					],
+					"path": [
+						"read_all.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Read Single Competence",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{api_url}}modul_competence/read_single.php?id=3",
+					"host": [
+						"{{api_url}}modul_competence"
+					],
+					"path": [
+						"read_single.php"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "3"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Read Competence by Modul",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{api_url}}modul_competence/read_by_modul.php?id=1",
+					"host": [
+						"{{api_url}}modul_competence"
+					],
+					"path": [
+						"read_by_modul.php"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Competence",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "modul_id",
+							"value": "2",
+							"type": "default"
+						},
+						{
+							"key": "criteria_name",
+							"value": "Delete Exam",
+							"type": "default"
+						},
+						{
+							"key": "criteria_weight",
+							"value": "0.3",
+							"type": "default"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{api_url}}modul_competence/create.php",
+					"host": [
+						"{{api_url}}modul_competence"
+					],
+					"path": [
+						"create.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Competence",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "id",
+							"value": "4",
+							"type": "default"
+						},
+						{
+							"key": "modul_id",
+							"value": "1",
+							"type": "default"
+						},
+						{
+							"key": "criteria_name",
+							"value": "Final Exam",
+							"type": "default"
+						},
+						{
+							"key": "criteria_weight",
+							"value": "0.6",
+							"type": "default"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{api_url}}modul_competence/update.php",
+					"host": [
+						"{{api_url}}modul_competence"
+					],
+					"path": [
+						"update.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Competence",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "id",
+							"value": "8",
+							"type": "default"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{api_url}}modul_competence/delete.php",
+					"host": [
+						"{{api_url}}modul_competence"
+					],
+					"path": [
+						"delete.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Competence by Modul",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "id",
+							"value": "2",
+							"type": "default"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{api_url}}modul_competence/delete_by_modul.php",
+					"host": [
+						"{{api_url}}modul_competence"
+					],
+					"path": [
+						"delete_by_modul.php"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "api_url",
+			"value": "http://localhost/_modul_materi2/api/",
+			"type": "default",
+			"disabled": true
+		},
+		{
+			"key": "api_url",
+			"value": "https://lessons.lumintulogic.com/api/",
+			"type": "default"
+		}
+	]
+}

@@ -1,0 +1,323 @@
+[11-Aug-2022 04:59:48 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 64
+[11-Aug-2022 04:59:48 UTC] PHP Warning:  file_get_contents(https://lessons.lumintulogic.com/api/modul/read_moduls_tree.php): Failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 64
+[11-Aug-2022 04:59:48 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 69
+[11-Aug-2022 04:59:48 UTC] PHP Warning:  file_get_contents(https://lessons.lumintulogic.com/api/modul/read_modul_rows.php): Failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 69
+[11-Aug-2022 04:59:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 490
+[11-Aug-2022 04:59:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 490
+[11-Aug-2022 04:59:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 490
+[11-Aug-2022 04:59:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tree-modal.php on line 1
+[11-Aug-2022 04:59:49 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tree-modal.php on line 1
+[11-Aug-2022 05:02:13 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 64
+[11-Aug-2022 05:02:13 UTC] PHP Warning:  file_get_contents(https://lessons.lumintulogic.com/api/modul/read_moduls_tree.php): Failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 64
+[11-Aug-2022 05:02:13 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 69
+[11-Aug-2022 05:02:13 UTC] PHP Warning:  file_get_contents(https://lessons.lumintulogic.com/api/modul/read_modul_rows.php): Failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 69
+[11-Aug-2022 05:02:13 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 490
+[11-Aug-2022 05:02:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 490
+[11-Aug-2022 05:02:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 490
+[11-Aug-2022 05:02:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tree-modal.php on line 1
+[11-Aug-2022 05:02:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tree-modal.php on line 1
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 490
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 490
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 490
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 490
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 490
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 490
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:04:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 490
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 490
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 490
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:20 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break" in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tambah.php on line 18
+[11-Aug-2022 05:05:20 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tambah.php on line 69
+[11-Aug-2022 05:05:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tambah.php on line 69
+[11-Aug-2022 05:05:20 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tambah.php on line 69
+[11-Aug-2022 05:05:20 UTC] PHP Warning:  Undefined variable $parent_id in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tambah.php on line 376
+[11-Aug-2022 05:05:20 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tambah.php on line 560
+[11-Aug-2022 05:05:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tambah.php on line 560
+[11-Aug-2022 05:05:20 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tambah.php on line 592
+[11-Aug-2022 05:05:20 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tambah.php on line 592
+[11-Aug-2022 05:05:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tambah.php on line 592
+[11-Aug-2022 05:05:20 UTC] PHP Warning:  Undefined variable $totalEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tambah.php on line 597
+[11-Aug-2022 05:05:20 UTC] PHP Warning:  Undefined variable $getDataEvent in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tambah.php on line 597
+[11-Aug-2022 05:05:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tambah.php on line 597
+[11-Aug-2022 05:05:20 UTC] PHP Warning:  Undefined variable $batchId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tambah.php on line 607
+[11-Aug-2022 05:05:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tambah.php on line 607
+[11-Aug-2022 05:05:20 UTC] PHP Warning:  Undefined variable $modulId in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tree-tambah.php on line 5
+[11-Aug-2022 05:05:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/tree-tambah.php on line 5
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 490
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 490
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/list-modul.php on line 490
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Undefined variable $take1 in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97
+[11-Aug-2022 05:05:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u7693729/public_html/lumintulearning.tech/lessons/role-admin/form-modal.php on line 97

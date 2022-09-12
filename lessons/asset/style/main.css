@@ -1,0 +1,91 @@
+   /* Remove default bullets */
+        ul,
+        #myUL {
+            list-style-type: none;
+        }
+
+        /* Remove margins and padding from the parent ul */
+        #myUL {
+            margin: 0;
+            padding: 0;
+
+        }
+
+        /* Style the caret/arrow */
+        .caret {
+            cursor: pointer;
+            user-select: none;
+            /* Prevent text selection */
+        }
+
+        /* Create the caret/arrow with a unicode, and style it */
+        .caret::before {
+            content: "\271B";
+            color: rgb(0, 0, 0);
+            font-weight: bold;
+            display: inline-block;
+            margin-right: 8px;
+            transition: 0.5s;
+
+        }
+
+        /* Rotate the caret/arrow icon when clicked on (using JavaScript) */
+        .caret-down::before {
+            content: "\2758";
+            margin-right: 8px;
+            color: rgb(0, 0, 0);
+
+        }
+
+        /* Hide the nested list */
+        .nested {
+            display: none;
+        }
+
+        /* Show the nested list when the user clicks on the caret/arrow (with JavaScript) */
+        .active {
+            display: block;
+        }
+
+
+        .sidebar #username_logo {
+            display: none;
+        }
+
+        /* #profil_image {
+            display: none !important;
+        } */
+
+        /* .responsive-top {
+            display: none;
+        } */
+
+
+
+        .in-active {
+            width: 80px !important;
+            padding: 20px 15px !important;
+            transition: .5s ease-in-out;
+        }
+
+        .in-active ul li p {
+            display: none !important;
+        }
+
+        .in-active ul li a {
+            padding: 15px !important;
+        }
+
+        .in-active h2,
+        .in-active h4,
+        .in-active .logo-prokidz {
+            display: none !important;
+        }
+
+        /* .hidden {
+            display: none !important;
+        } */
+
+        .sidebar {
+            transition: .5s ease-in-out;
+        }

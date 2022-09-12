@@ -1,0 +1,50 @@
+[05-Aug-2022 01:36:43 UTC] PHP Warning:  Undefined array key "role" in /home/u7693729/public_html/lumintulearning.tech/account/users.php on line 222
+[05-Aug-2022 01:38:04 UTC] PHP Warning:  Undefined array key "role" in /home/u7693729/public_html/lumintulearning.tech/account/users.php on line 222
+[05-Aug-2022 01:38:06 UTC] PHP Warning:  Undefined variable $_user in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 338
+[05-Aug-2022 01:38:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 338
+[05-Aug-2022 01:38:06 UTC] PHP Warning:  Undefined variable $_user in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 343
+[05-Aug-2022 01:38:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 343
+[05-Aug-2022 01:38:06 UTC] PHP Warning:  Undefined variable $_user in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 347
+[05-Aug-2022 01:38:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 347
+[05-Aug-2022 01:38:06 UTC] PHP Warning:  Undefined variable $_user in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 352
+[05-Aug-2022 01:38:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 352
+[05-Aug-2022 01:38:06 UTC] PHP Warning:  Undefined variable $_user in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 362
+[05-Aug-2022 01:38:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 362
+[05-Aug-2022 01:38:06 UTC] PHP Warning:  Undefined variable $_user in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 362
+[05-Aug-2022 01:38:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 362
+[05-Aug-2022 01:38:06 UTC] PHP Warning:  Undefined variable $_user in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 371
+[05-Aug-2022 01:38:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 371
+[05-Aug-2022 01:38:06 UTC] PHP Warning:  Undefined variable $_user in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 371
+[05-Aug-2022 01:38:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 371
+[05-Aug-2022 01:38:13 UTC] PHP Warning:  Undefined array key "role" in /home/u7693729/public_html/lumintulearning.tech/account/users.php on line 222
+[05-Aug-2022 01:38:23 UTC] PHP Warning:  Undefined variable $_user in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 338
+[05-Aug-2022 01:38:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 338
+[05-Aug-2022 01:38:23 UTC] PHP Warning:  Undefined variable $_user in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 343
+[05-Aug-2022 01:38:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 343
+[05-Aug-2022 01:38:23 UTC] PHP Warning:  Undefined variable $_user in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 347
+[05-Aug-2022 01:38:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 347
+[05-Aug-2022 01:38:23 UTC] PHP Warning:  Undefined variable $_user in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 352
+[05-Aug-2022 01:38:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 352
+[05-Aug-2022 01:38:23 UTC] PHP Warning:  Undefined variable $_user in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 362
+[05-Aug-2022 01:38:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 362
+[05-Aug-2022 01:38:23 UTC] PHP Warning:  Undefined variable $_user in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 362
+[05-Aug-2022 01:38:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 362
+[05-Aug-2022 01:38:23 UTC] PHP Warning:  Undefined variable $_user in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 371
+[05-Aug-2022 01:38:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 371
+[05-Aug-2022 01:38:23 UTC] PHP Warning:  Undefined variable $_user in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 371
+[05-Aug-2022 01:38:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 371
+[05-Aug-2022 01:38:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_batch() on string in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php:139
+Stack trace:
+#0 {main}
+  thrown in /home/u7693729/public_html/lumintulearning.tech/account/user-form.php on line 139
+[05-Aug-2022 01:39:02 UTC] PHP Warning:  Undefined array key "role" in /home/u7693729/public_html/lumintulearning.tech/account/users.php on line 222
+[05-Aug-2022 01:39:15 UTC] PHP Warning:  Undefined array key "role" in /home/u7693729/public_html/lumintulearning.tech/account/users.php on line 222
+[05-Aug-2022 01:49:54 UTC] PHP Warning:  Undefined array key "role" in /home/u7693729/public_html/lumintulearning.tech/account/users.php on line 222
+[11-Aug-2022 02:54:02 UTC] PHP Warning:  Undefined array key "role" in /home/u7693729/public_html/lumintulearning.tech/account/users.php on line 222
+[21-Aug-2022 17:15:13 UTC] PHP Warning:  Undefined array key "role" in /home/u7693729/public_html/lumintulearning.tech/account/users.php on line 222
+[26-Aug-2022 09:07:09 UTC] PHP Warning:  Undefined array key "role" in /home/u7693729/public_html/lumintulearning.tech/account/users.php on line 222
+[26-Aug-2022 09:07:18 UTC] PHP Warning:  Undefined array key "role" in /home/u7693729/public_html/lumintulearning.tech/account/users.php on line 222
+[26-Aug-2022 09:07:27 UTC] PHP Warning:  Undefined array key "role" in /home/u7693729/public_html/lumintulearning.tech/account/users.php on line 222
+[12-Sep-2022 01:34:37 UTC] PHP Warning:  Undefined array key "role" in /home/u7693729/public_html/lumintulearning.tech/account/users.php on line 222
+[12-Sep-2022 01:35:04 UTC] PHP Warning:  Undefined array key "role" in /home/u7693729/public_html/lumintulearning.tech/account/users.php on line 222
+[12-Sep-2022 01:37:16 UTC] PHP Warning:  Undefined array key "role" in /home/u7693729/public_html/lumintulearning.tech/account/users.php on line 222
